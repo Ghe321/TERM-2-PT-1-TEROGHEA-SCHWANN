@@ -3,7 +3,7 @@
 
 <head> 
 
-<title>My First Webpage by your Ghea</title> 
+<title>My First Webpage by Ghea</title> 
 <style>
         body {
             background-color: lightyellow;
